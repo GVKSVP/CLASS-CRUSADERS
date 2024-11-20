@@ -1,9 +1,6 @@
 # CLASS-CRUSADERS
-Features
-Add Outcome: Add new course outcomes with a unique ID and description.
-Display Outcomes: View all course outcomes.
-Update Outcome: Modify an existing course outcome.
-Delete Outcome: Remove a course outcome by ID.
-Search Outcome: Find a specific course outcome using its ID.
-Sort Outcomes: Organize course outcomes in ascending order of their ID.
-File Persistence: Save outcomes to a file (course_outcomes.txt) and load them on the next program execution
+Our University (herewith considered as SRM-AP) is going to implement OBE(Outcome Based Education) in their university and you assigned in the project to develop an application with any programming Language you are well versed and you were supposed to do searching and sorting using learned algorithms,comparing your sorting algorithm with any one of existing algorithm,displaying the time complexity of both algorithms and explaining advantages and disadvantages of the algorithm.
+
+Module Name:Eg)Course Outcome Setting
+Module Description:
+This module is used to create,Update,Retrieve,Delete(hereafter known as CURD) details of the module and storing the details in the text file.you have to provide option for searching and sorting of fields mentioned below according to algorithms given for you
